@@ -1,7 +1,5 @@
 # tutorial
-
-A new Flutter project.
-
+I did this project to get familar with the dart and flutter, by creating an infinite scrolling app. It is based on the offical flutter tutorial in their documentation.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
